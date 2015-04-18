@@ -57,7 +57,7 @@ executable workbench
   -- other-extensions:    
   
   -- Other library packages from which modules are imported.
-  build-depends:       base >=4.6 && <4.7,
+  build-depends:       base >=4.6 && <4.9,
                        transformers >= 0.2.0.0 && < 0.4,
                        gtk3 >= 0.12.5.0
   
